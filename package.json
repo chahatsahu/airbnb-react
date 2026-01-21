@@ -7,7 +7,6 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "install": "npm install --legacy-peer-deps",
     "start": "node init/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
